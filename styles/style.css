@@ -1,0 +1,16 @@
+.header {
+    font-family: "beer-money";
+    font-size: 30px;
+}
+
+input, select {
+    margin-bottom: 5px;
+}
+.btn-send {
+    margin-top: 10px;
+}
+
+@font-face {
+    font-family: "beer-money";
+    src: url(../fonts/beer-money.ttf);
+}
